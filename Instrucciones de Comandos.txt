@@ -1,0 +1,8 @@
+npm install - en caso de no funcionar, será necesario instalar node.js de la pagina oficial.
+
+npm run dev - para correr las dependencias que vienen por defecto en laravel
+
+composer requier guzzlehttp/guzzle - para instalar las librerias de guzzle
+
+php artisan migrate
+
