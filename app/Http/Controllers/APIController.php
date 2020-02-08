@@ -16,11 +16,11 @@ class APIController extends Controller
      */
     public function index()
     {
-        define("CONSUMER_KEY","8uHLgxKs1ag66LPbomkYgyKY5");
-        define("CONSUMER_SECRET","roGqZC8ZfJHIXbOAV75lJACFDXBIvtr7UxYAeDct7mqG2UQd5D");
+        define("CONSUMER_KEY","");
+        define("CONSUMER_SECRET","");
 
-        $acces_token = "1225875511982874624-tFPdus1ednpR5nEKX6RlEIySnlVHTg";
-        $access_token_secret = "MLAvK3fTltFqUn0XVoeShQxPKEXTFwS13vMgjRQkiwUht";
+        $acces_token = "";
+        $access_token_secret = "";
 
         // CONSUMER_KEY, CONSUMER_SECRET, $acces_token, $access_token_secret
 
